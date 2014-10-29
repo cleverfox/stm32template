@@ -1,0 +1,10 @@
+*.o
+*~
+*.swp
+tags
+*.bin
+*.hex
+*.list
+*.map
+*.out
+
